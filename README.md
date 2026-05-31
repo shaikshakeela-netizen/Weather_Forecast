@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit">
 <img src="https://img.shields.io/badge/Data_Analytics-EDA-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Machine_Learning-Forecasting-green?style=for-the-badge">
-live Demo: https://house-prediction-e26w.onrender.com
 
 </div>
 
@@ -17,6 +16,10 @@ live Demo: https://house-prediction-e26w.onrender.com
 # 📌 Project Overview
 
 **WeatherSense** is an interactive weather analytics and forecasting dashboard built using **Python**, **Streamlit**, and **Machine Learning**.
+
+
+live Demo: https://house-prediction-e26w.onrender.com
+
 
 The application enables users to:
 
