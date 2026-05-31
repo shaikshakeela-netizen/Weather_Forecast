@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit">
 <img src="https://img.shields.io/badge/Data_Analytics-EDA-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Machine_Learning-Forecasting-green?style=for-the-badge">
+live Demo: https://house-prediction-e26w.onrender.com
 
 </div>
 
