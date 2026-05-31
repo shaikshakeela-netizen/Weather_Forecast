@@ -18,7 +18,7 @@
 **WeatherSense** is an interactive weather analytics and forecasting dashboard built using **Python**, **Streamlit**, and **Machine Learning**.
 
 
-live Demo: https://house-prediction-e26w.onrender.com
+live Demo: https://wheatherforcast.onrender.com
 
 
 The application enables users to:
